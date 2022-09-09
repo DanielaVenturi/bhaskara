@@ -14,7 +14,8 @@ if(delta > 0){
 
      
 
-    document.getElementById("resultado").innerHTML = `resultado = ${contaUm}, ${contaDois} `
+    document.getElementById("resultado").innerHTML = `resultado = x'= ${contaUm} <br>
+    x" ${contaDois} `
 
 }
 
